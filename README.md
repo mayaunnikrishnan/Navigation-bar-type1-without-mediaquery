@@ -1,0 +1,1 @@
+# Navigation-bar-type1-without-mediaquery
